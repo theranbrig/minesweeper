@@ -18,3 +18,7 @@ Create dynamic board that is of any size based on user input with randomly place
 
 Fixed possible bomb bug.
 Created user chosen tiles that display bombs or number of surrounding bombs.
+
+## Step 4 (Day 18): Minesweeper Game Adding Class Structure
+
+- Function building using classes and objects
